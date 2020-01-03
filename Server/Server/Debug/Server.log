@@ -1,0 +1,9 @@
+﻿  Server.cpp
+c:\users\sam\source\repos\server\server\server.cpp(28): warning C4101: 'sockErr': unreferenced local variable
+c:\users\sam\source\repos\server\server\server.cpp(108): warning C4553: '==': result of expression not used; did you intend '='?
+c:\users\sam\source\repos\server\server\server.cpp(100): warning C4101: 'WSAGetLastError': unreferenced local variable
+c:\users\sam\source\repos\server\server\server.cpp(110): warning C4101: 'bind': unreferenced local variable
+c:\users\sam\source\repos\server\server\server.cpp(133): warning C4101: 'err': unreferenced local variable
+c:\users\sam\source\repos\server\server\server.cpp(86): warning C4715: 'StartUp::winSockCheck': not all control paths return a value
+c:\users\sam\source\repos\server\server\server.cpp(120): warning C4715: 'StartUp::socketChecks': not all control paths return a value
+  Server.vcxproj -> C:\Users\Sam\source\repos\Server\Debug\Server.exe
